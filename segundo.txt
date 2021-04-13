@@ -1,0 +1,3 @@
+este es el segundo texto para probar git
+
+ahora estamos en el segundo parrafooooooo
